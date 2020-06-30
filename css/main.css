@@ -62,6 +62,8 @@ body {
 .logo__title {
   font-weight: bold;
   position: relative;
+  z-index: 10;
+  color: darkorange;
 }
 
 .logo__title::before {
